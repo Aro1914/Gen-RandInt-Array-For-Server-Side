@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aro1914/Gen-RandInt-Array.git"
+    "url": "git+https://github.com/Aro1914/Gen-RandInt-Array-For-Server-Side.git"
   },
   "keywords": [
     "Random",
@@ -22,7 +22,7 @@
   "type": "commonjs",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Aro1914/Gen-RandInt-Array/issues"
+    "url": "https://github.com/Aro1914/Gen-RandInt-Array-For-Server-Side/issues"
   },
-  "homepage": "https://github.com/Aro1914/Gen-RandInt-Array#readme"
+  "homepage": "https://github.com/Aro1914/Gen-RandInt-Array-For-Server-Side/#readme"
 }
