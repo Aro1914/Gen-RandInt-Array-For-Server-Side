@@ -1,0 +1,28 @@
+{
+  "name": "gen-randint-array-cjs",
+  "version": "0.0.9",
+  "description": "A helper function that returns an array filled with random integers.",
+  "main": "genRandIntArray.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aro1914/Gen-RandInt-Array.git"
+  },
+  "keywords": [
+    "Random",
+    "Array",
+    "Generator",
+    "Integer",
+    "Helper-Functions",
+    "Function"
+  ],
+  "author": "Emmanuel Agbavwe",
+  "type": "commonjs",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Aro1914/Gen-RandInt-Array/issues"
+  },
+  "homepage": "https://github.com/Aro1914/Gen-RandInt-Array#readme"
+}
